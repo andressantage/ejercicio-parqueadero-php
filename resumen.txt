@@ -1,0 +1,7 @@
+SGBD: sistema de de gestion de bases de datos
+
+RDBMS: sistema de gestión de bases de datos relacionales
+
+redundancia: no se repite informacion
+
+se utiliza la redundancia para evitar hacer consultas entre tablas 
